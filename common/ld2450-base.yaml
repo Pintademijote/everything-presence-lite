@@ -242,7 +242,7 @@ number:
   - platform: template
     name: "Zone 1 End Y"
     id: zone1_end_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
@@ -293,7 +293,7 @@ number:
   - platform: template
     name: "Zone 2 End Y"
     id: zone2_end_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
@@ -345,7 +345,7 @@ number:
   - platform: template
     name: "Zone 3 End Y"
     id: zone3_end_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
@@ -397,7 +397,7 @@ number:
   - platform: template
     name: "Zone 4 End Y"
     id: zone4_end_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
