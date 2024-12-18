@@ -213,7 +213,7 @@ number:
     name: "Zone 1 Begin X"
     id: zone1_begin_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -223,7 +223,7 @@ number:
     name: "Zone 1 End X"
     id: zone1_end_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -264,7 +264,7 @@ number:
     name: "Zone 2 Begin X"
     id: zone2_begin_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -274,7 +274,7 @@ number:
     name: "Zone 2 End X"
     id: zone2_end_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -316,7 +316,7 @@ number:
     name: "Zone 3 Begin X"
     id: zone3_begin_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -326,7 +326,7 @@ number:
     name: "Zone 3 End X"
     id: zone3_end_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -368,7 +368,7 @@ number:
     name: "Zone 4 Begin X"
     id: zone4_begin_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -378,7 +378,7 @@ number:
     name: "Zone 4 End X"
     id: zone4_end_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -420,7 +420,7 @@ number:
     name: "Occupancy Mask 1 Begin X"
     id: occupancy_mask_1_begin_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
@@ -429,7 +429,7 @@ number:
     name: "Occupancy Mask 1 End X"
     id: occupancy_mask_1_end_x
     max_value: 8000
-    min_value: -6000
+    min_value: -8000
     unit_of_measurement: "mm"
     step: 10
     optimistic: True
