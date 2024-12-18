@@ -212,7 +212,7 @@ number:
   - platform: template
     name: "Zone 1 Begin X"
     id: zone1_begin_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -222,7 +222,7 @@ number:
   - platform: template
     name: "Zone 1 End X"
     id: zone1_end_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -232,7 +232,7 @@ number:
   - platform: template
     name: "Zone 1 Begin Y"
     id: zone1_begin_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560 # if epl is rotated 45deg, a target could be detected at negative values: -6000*sin(60deg-45deg) = ~-1552
     unit_of_measurement: "mm"
     step: 10
@@ -263,7 +263,7 @@ number:
   - platform: template
     name: "Zone 2 Begin X"
     id: zone2_begin_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -273,7 +273,7 @@ number:
   - platform: template
     name: "Zone 2 End X"
     id: zone2_end_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -283,7 +283,7 @@ number:
   - platform: template
     name: "Zone 2 Begin Y"
     id: zone2_begin_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
@@ -315,7 +315,7 @@ number:
   - platform: template
     name: "Zone 3 Begin X"
     id: zone3_begin_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -325,7 +325,7 @@ number:
   - platform: template
     name: "Zone 3 End X"
     id: zone3_end_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -335,7 +335,7 @@ number:
   - platform: template
     name: "Zone 3 Begin Y"
     id: zone3_begin_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
@@ -367,7 +367,7 @@ number:
   - platform: template
     name: "Zone 4 Begin X"
     id: zone4_begin_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -377,7 +377,7 @@ number:
   - platform: template
     name: "Zone 4 End X"
     id: zone4_end_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -387,7 +387,7 @@ number:
   - platform: template
     name: "Zone 4 Begin Y"
     id: zone4_begin_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
@@ -419,7 +419,7 @@ number:
   - platform: template
     name: "Occupancy Mask 1 Begin X"
     id: occupancy_mask_1_begin_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -428,7 +428,7 @@ number:
   - platform: template
     name: "Occupancy Mask 1 End X"
     id: occupancy_mask_1_end_x
-    max_value: 6000
+    max_value: 8000
     min_value: -6000
     unit_of_measurement: "mm"
     step: 10
@@ -437,7 +437,7 @@ number:
   - platform: template
     name: "Occupancy Mask 1 Begin Y"
     id: occupancy_mask_1_begin_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
@@ -446,7 +446,7 @@ number:
   - platform: template
     name: "Occupancy Mask 1 End Y"
     id: occupancy_mask_1_end_y
-    max_value: 6000
+    max_value: 8000
     min_value: -1560
     unit_of_measurement: "mm"
     step: 10
